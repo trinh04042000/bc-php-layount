@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+}
+#head{
+    background: bisque;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+    bottom: 5px;
+}
+#head-link{
+    background: antiquewhite;
+    height: 30px;
+    width: 100%;
+    margin: 5px;
+
+
+}
+#left{
+    background: aqua;
+    height: 400px;
+    width: 24%;
+    float: left;
+   ;
+}
+#content{
+    background: bisque;
+    height: 400px;
+    width: 50%;
+    float: left;
+    margin: 5px;
+}
+#right{
+    background: blanchedalmond;
+    height: 400px;
+    width: 24%;
+    float: right;
+    margin: 5px;
+}
+#footer{
+    background: blanchedalmond;
+    height: 80px;
+    width: 100%;
+    clear: both;
+    margin: 5px;
+}
